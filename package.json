@@ -1,7 +1,7 @@
 {
-  "name": "@doprado/doprado",
+  "name": "doprado",
   "main": "index.js",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "doPrado - About Me",
   "homepage": "http://devprado.com.br",
   "author": "Guilherme Prado <guilherme@devprado.com.br>",
