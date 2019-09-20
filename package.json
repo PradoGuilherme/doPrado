@@ -9,5 +9,11 @@
     "start": "node index.js",
     "postinstall": "node index.js"
   },
+  "keywords": [
+    "doprado",
+    "guilherme",
+    "prado",
+    "js"
+  ],
   "license": "ISC"
 }
