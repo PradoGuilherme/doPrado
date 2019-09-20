@@ -1,0 +1,13 @@
+{
+  "name": "@doprado/doprado",
+  "main": "index.js",
+  "version": "1.1.1",
+  "description": "doPrado - About Me",
+  "homepage": "http://devprado.com.br",
+  "author": "Guilherme Prado <guilherme@devprado.com.br>",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "node index.js"
+  },
+  "license": "ISC"
+}
